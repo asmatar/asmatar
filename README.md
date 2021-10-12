@@ -1,5 +1,5 @@
 ### Hello World 👋
-
+   ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
 I'm a self-taught passionate FrontEnd developer from France
 
 About me
@@ -14,7 +14,7 @@ About me
 
 Languages and Tools:
 
-   ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
+
 <!--
 **asmatar/asmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
