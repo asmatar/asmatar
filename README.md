@@ -1,16 +1,18 @@
 ### Hello World 👋
    ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
-I'm a self-taught passionate FrontEnd developer from France
 
-About me
 
-💼 FrontEnd Engineer at Razorpay
+I'm a self-taught passionate FrontEnd developer from France 🇫🇷
+
+About me ❓
+
+💼 Full stack web developer
 
 📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 31K stars on GitHub
 
-❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenge myself
 
-💬 Ask me about anything here
+💬 Stay in touch  👉🏻 deruelle.arthur@gmail.com 
 
 Languages and Tools:
 
