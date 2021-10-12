@@ -1,5 +1,5 @@
 ### Hello World 👋
-   ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
+                                      ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
 
 
 I'm a self-taught passionate FrontEnd developer from France 🇫🇷
@@ -8,14 +8,13 @@ About me ❓
 
 💼 Full stack web developer
 
-📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 31K stars on GitHub
-
 ❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenge myself
 
-💬 Stay in touch  👉🏻 deruelle.arthur@gmail.com | arthur-deruelle.netlify.app | www.linkedin.com/in/arthur-deruelle
+💬 Stay in touch  👉🏻 deruelle.arthur@gmail.com | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | www.linkedin.com/in/arthur-deruelle
 
 Languages and Tools: HTML, CSS, JS, REACT - REDUX, Tailwind css
 
+![image](https://user-images.githubusercontent.com/69482176/136919464-62aec779-14c0-4604-ab9c-3a8f2c10f5ea.png)
 
 <!--
 **asmatar/asmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
