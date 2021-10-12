@@ -11,11 +11,10 @@ About me ❓
 
 ❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenge myself
 
-💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | ![linkdin]**(www.linkedin.com/in/arthur-deruelle)**
+💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | ![linkedin]**(www.linkedin.com/in/arthur-deruelle)**
 
 Languages and Tools: HTML, CSS, JS, REACT - REDUX, Tailwind css
 
-![mail](https://github.com/asmatar/asmatar/blob/main/mail.png?raw=true)
 
 <!--
 **asmatar/asmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
