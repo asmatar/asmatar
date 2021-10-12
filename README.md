@@ -1,5 +1,6 @@
 ### Hello World 👋
-                                      ![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
+</br>
+![relax, take it easy](https://github.com/asmatar/asmatar/blob/main/work-01-0a.png?raw=true)
 
 
 I'm a self-taught passionate FrontEnd developer from France 🇫🇷
@@ -14,7 +15,7 @@ About me ❓
 
 Languages and Tools: HTML, CSS, JS, REACT - REDUX, Tailwind css
 
-![mail](https://github.com/asmatar/asmatar/blob/main/emaill.png?raw=true)
+![mail](https://github.com/asmatar/asmatar/blob/main/mail.png?raw=true)
 
 <!--
 **asmatar/asmatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
