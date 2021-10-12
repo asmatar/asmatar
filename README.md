@@ -11,7 +11,7 @@ About me ❓
 
 ❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenge myself
 
-💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | ![linkedin]**(www.linkedin.com/in/arthur-deruelle)**
+💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | **(www.linkedin.com/in/arthur-deruelle)**
 
 Languages and Tools: HTML, CSS, JS, REACT - REDUX, Tailwind css
 
