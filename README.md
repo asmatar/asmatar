@@ -9,7 +9,7 @@ About me ❓
 
 💼 Full stack web developer
 
-❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenge myself
+❤️ I love coding, all IT tecnology, building fun project, keep learning and chalenging myself
 
 💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | **(www.linkedin.com/in/arthur-deruelle)**
 
