@@ -13,7 +13,7 @@ About me ❓
 
 💬 Stay in touch  👉🏻  📮 **deruelle.arthur@gmail.com** | 🌍 **[My website](https://arthur-deruelle.netlify.app/)** | **(www.linkedin.com/in/arthur-deruelle)**
 
-Languages and Tools: HTML, CSS (saas), JS, REACT, NEXTjs, REDUX, Tailwind-css
+Languages and Tools: HTML, CSS (saas), JS, TYPESCRIPT, REACT, NEXTjs, REDUX, Tailwind, React Query
 
 
 <!--
